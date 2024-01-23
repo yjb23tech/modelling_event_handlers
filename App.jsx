@@ -53,7 +53,6 @@ const App = () => {
                 <button type="submit">Submit</button>
             </form>
             <div id="response_box">
-
             </div>
         </div>
     )
